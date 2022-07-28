@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://www.nintendo.co.jp/switch/av5ja/product.png''
+img_url = 'https://www.nintendo.co.jp/switch/av5ja/product.png'
 
 im = imread(img_url)
 
